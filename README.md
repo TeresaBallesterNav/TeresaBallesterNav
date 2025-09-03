@@ -26,5 +26,5 @@ I combine strong **technical expertise** with clear **stakeholder communication*
 
 ## 📬 Contact
 - 💼 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/teresa-ballester-navarro/))  
-- 📄 [Resume/CV]()  
+- 📄 [Resume/CV](./CV_BallesterNavarro_Teresa.pdf)  
 - ✉️ Email: ballesternavarro.teresa@gmail.com
