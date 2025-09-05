@@ -11,7 +11,7 @@ I combine strong **technical expertise** with clear **stakeholder communication*
 -----
 
 ## 🔥 Featured Projects
-- 📊 [**Amazon Product Classification**](link-to-repo) -
+- 📊 [**Amazon Product Classification**](https://github.com/TeresaBallesterNav/product_classifier.git) - The project consists of building a model to classify products into their respective categories based on their features.
 - 🤖 [**Churn problem**](link-to-repo) - 
 
 -----
